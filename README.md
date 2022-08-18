@@ -1,5 +1,5 @@
 ## depolyement
-To view my project visit [React todo-list] (https://paul-todo.herokuapp.com/)
+To view my project visit [React todo-list](https://paul-todo.herokuapp.com)
 
 # Getting Started with Create React App
 
